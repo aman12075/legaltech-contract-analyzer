@@ -1,0 +1,437 @@
+[
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 1,
+    "clause_text": "This RENTAL AGREEMENT is executed at (PLACE) on this (Date) day of (Month), (Year)by"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 2,
+    "clause_text": "(hereinafter jointly and severally called the \u201cOWNER\u201d, which expression shall include their"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 3,
+    "clause_text": "heirs, legal representatives, successors and assigns) of the ONE PART:"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 4,
+    "clause_text": "Working/Studying at (Address of the Office/Studying Institution)"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 5,
+    "clause_text": "having a permanent address at Complete permanent Address of the Tenant"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 6,
+    "clause_text": "(hereinafter called the \u201cTENANT\u201d, which expression shall include its legal representatives,"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 7,
+    "clause_text": "successors and assigns) of the OTHER PART"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 8,
+    "clause_text": "WHEREAS the Owner is the absolute owner of the property situated at (Complete Address of"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 9,
+    "clause_text": "the Rented Property) as detailed in Annexure-I, hereinafter referred to as \"Demised Premises\""
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 10,
+    "clause_text": "WHEREAS the Tenant has requested the Owner to grant Rent with respect to the Schedule"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 11,
+    "clause_text": "Premises and the Owner has agreed to rent out to the Tenant the Property with two-wheeler and"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 12,
+    "clause_text": "four-wheeler parking space in the ground floor for residential purposes only, on the following"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 13,
+    "clause_text": "The rent in respect of the \u201cDemised Premises\u201d shall commence from (Starting Date of"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 14,
+    "clause_text": "Agreement) and shall be valid till (Expiry Date of Agreement)"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 15,
+    "clause_text": "extended further on mutual consent of both the parties"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 16,
+    "clause_text": "That the Tenant shall pay to the Owner a monthly rent of Rs.(Amount of rent in Numbers),"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 17,
+    "clause_text": "The rent shall be paid on or before 7th day of each month"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 18,
+    "clause_text": "That the Tenant shall pay to the Owner a monthly maintenance charge of Rs.(Amount in"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 19,
+    "clause_text": "Numbers) towards the maintenance of Generator & Elevator, Salaries towards guards, Charges"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 20,
+    "clause_text": "for Electricity Maintenance for Common Areas, Charges towards cleaning of Common Areas"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 21,
+    "clause_text": "That the Tenant shall pay for the running cost of elevator and generator separately to the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 22,
+    "clause_text": "That during the Rent period, in addition to the rental amount payable to the Owner, the Tenant"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 23,
+    "clause_text": "shall pay for the use of electricity and water as per bills received from the authorities concerned"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 24,
+    "clause_text": "For all the dues of electricity bills and water bills till the date the possession of the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 25,
+    "clause_text": "premises is handed over by the Owner to the Tenant it is the responsibility of the Owner to pay"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 26,
+    "clause_text": "and clear them according to the readings on the respective meters"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 27,
+    "clause_text": "possession of the premises back to the Owner by Tenant, it is the responsibility of the Tenant to"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 28,
+    "clause_text": "pay electricity & water bills, as presented by the Departments concerned according to the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 29,
+    "clause_text": "readings on the respective meters upto the date of vacation of the property"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 30,
+    "clause_text": "The Tenant will pay to the Owner an interest-free refundable security deposit of Rs.(Amount"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 31,
+    "clause_text": "in Numbers) vide cheque no (Cheque Number) dated (date of the cheque) at the time of signing"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 32,
+    "clause_text": "The said amount of the Security deposit shall be refunded by the Owner to"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 33,
+    "clause_text": "the Tenant at the time of handing over possession of the demised premises by the Tenant upon"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 34,
+    "clause_text": "expiry or sooner termination of this Rent after adjusting any dues (if any) or cost towards"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 35,
+    "clause_text": "damages caused by the negligence of the Tenant or the person he is responsible for, normal wear"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 36,
+    "clause_text": "& tear and damages due to act of god exempted"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 37,
+    "clause_text": "In case the Owner fails to refund the security"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 38,
+    "clause_text": "deposit to the Tenant on early termination or expiry of the Rent agreement, the Tenant is entitled"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 39,
+    "clause_text": "to hold possession of the Rented premises, without payment of rent and/or any other charges"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 40,
+    "clause_text": "whatsoever, till such time the Owner refunds the security deposit to the Tenant"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 41,
+    "clause_text": "prejudice and in addition to the other remedies available to the Tenant to recover the amount"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 42,
+    "clause_text": "That all the sanitary, electrical and other fittings and fixtures and appliances in the premises"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 43,
+    "clause_text": "shall be handed over from the Owner to the Tenant in good working condition"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 44,
+    "clause_text": "That the Tenant shall not sublet, assign or part with the demised premises in whole or part"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 45,
+    "clause_text": "thereof to any person in any circumstances whatsoever and the same shall be used for the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 46,
+    "clause_text": "That the day-to-day minor repairs will be the responsibility for the Tenant at his/her own"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 47,
+    "clause_text": "However, any structural or major repairs, if so required, shall be carried out by the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 48,
+    "clause_text": "That no structural additions or alterations shall be made by the Tenant in the premises"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 49,
+    "clause_text": "without the prior written consent of the Owner but the Tenant can install air-conditioners in the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 50,
+    "clause_text": "space provided and other electrical gadgets and make such changes for the purposes as may be"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 51,
+    "clause_text": "On termination of the tenancy or earlier, the Tenant will be entitled to"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 52,
+    "clause_text": "remove such equipment and restore the changes made, if any, to the original state"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 53,
+    "clause_text": "That the Owner shall hold the right to visit in person or through his authorized agent(s),"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 54,
+    "clause_text": "servants, workmen etc., to enter upon the demised premises for inspection (not exceeding once in"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 55,
+    "clause_text": "a month) or to carry out repairs / construction, as and when required"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 56,
+    "clause_text": "That the Tenant shall comply with all the rules and regulations of the local authority"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 57,
+    "clause_text": "The premises will be used only for residential purposes of its"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 58,
+    "clause_text": "That the Owner shall pay for all taxes/cesses levied on the premises by the local or"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 59,
+    "clause_text": "government authorities in the way of property tax for the premises and so on"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 60,
+    "clause_text": "payment in the nature of subscription or periodical fee to the welfare association shall be paid by"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 61,
+    "clause_text": "That the Owner will keep the Tenant free and harmless from any claims, proceedings,"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 62,
+    "clause_text": "demands, or actions by others with respect to quiet possession of the premises"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 63,
+    "clause_text": "That this Rent Agreement can be terminated before the expiry of this tenancy period by"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 64,
+    "clause_text": "serving One month prior notice in writing by either party"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 65,
+    "clause_text": "The Tenant shall maintain the Demised Premises in good and tenable condition and all the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 66,
+    "clause_text": "minor repairs such as leakage in the sanitary fittings, water taps and electrical usage etc"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 67,
+    "clause_text": "That it shall be the responsibility of the Tenant to hand over the vacant"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 68,
+    "clause_text": "and peaceful possession of the demised premises on expiry of the Rent period, or on its early"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 69,
+    "clause_text": "termination, as stated hereinabove in the same condition subject to natural wear and tear"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 70,
+    "clause_text": "That in case, where the Premises are not vacated by the Tenant, at the termination of the Rent"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 71,
+    "clause_text": "period, the Tenant will pay damages calculated at two times the rent for any period of occupation"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 72,
+    "clause_text": "commencing from the expiry of the Rent period"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 73,
+    "clause_text": "The payment of damages as aforesaid will not"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 74,
+    "clause_text": "preclude the Owner from initiating legal proceedings against the Tenant for recovering"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 75,
+    "clause_text": "possession of premises or for any other purpose"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 76,
+    "clause_text": "That both the parties shall observe and adhere to the terms and conditions contained"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 77,
+    "clause_text": "That the Tenant and Owners represent and warrant that they are fully empowered and"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 78,
+    "clause_text": "That both the parties have read over and understood all the contents"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 79,
+    "clause_text": "of this agreement and have signed the same without any force or pressure from any side"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 80,
+    "clause_text": "In case of any dispute to this agreement and the clauses herein, the same will be settled in the"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 81,
+    "clause_text": "That the Rent Agreement will be registered in front of the Registrar and the charges towards"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 82,
+    "clause_text": "stamp duty, court fee & lawyer/coordinator will be equally borne by the Owner and Tenant"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 83,
+    "clause_text": "The (Complete Address) of the Property, consisting (Number of Bedrooms) bedrooms, living"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 84,
+    "clause_text": "room, family lounge, kitchen, servant room and inbuilt fittings & fixtures and inventory of"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 85,
+    "clause_text": "(Number of Fans), (Number of CFL Lights), (Number of Geyser), (Number of Mirrors)"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 86,
+    "clause_text": "IN WITNESS WHEREOF BOTH PARTIES AGREES AND SIGNS THIS AGREEMENT"
+  },
+  {
+    "contract_id": "rental_agreement",
+    "clause_id": 87,
+    "clause_text": "(Signature of the Owner) (Signature of the Tenant)"
+  }
+]
