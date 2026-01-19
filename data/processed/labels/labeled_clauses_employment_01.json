@@ -1,0 +1,138 @@
+[
+  {
+    "contract_id": "employment_01",
+    "clause_id": 1,
+    "clause_text": "This agreement lays down the terms of employment, agreed upon by the employer and employee",
+    "clause_type": "General",
+    "risk_level": "Low",
+    "risk_reason": "Introductory clause defining purpose of agreement."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 2,
+    "clause_text": "Whether stated explicitly in the agreement or not, both the employee and the employer have the duty of mutual confidence and trust...",
+    "clause_type": "Conduct",
+    "risk_level": "Low",
+    "risk_reason": "Defines mutual trust obligation."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 10,
+    "clause_text": "Upon execution of this Agreement, the employee would be posted as the _______of the Company",
+    "clause_type": "Appointment",
+    "risk_level": "Low",
+    "risk_reason": "Specifies role designation."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 11,
+    "clause_text": "During the term period... the Company may change the employee's post or location...",
+    "clause_type": "Job Modification",
+    "risk_level": "High",
+    "risk_reason": "Allows employer unilateral changes in role and location."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 12,
+    "clause_text": "During probation... Employer may terminate... without notice or cause",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "risk_reason": "Allows termination without notice during probation."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 15,
+    "clause_text": "Employee shall devote full business time...",
+    "clause_type": "Duties",
+    "risk_level": "Low",
+    "risk_reason": "Standard work duty obligation."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 17,
+    "clause_text": "The Employee shall receive an annual salary...",
+    "clause_type": "Compensation",
+    "risk_level": "Medium",
+    "risk_reason": "Salary changes determined unilaterally by employer."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 20,
+    "clause_text": "All reasonable expenses arising out of employment shall be reimbursed...",
+    "clause_type": "Reimbursement",
+    "risk_level": "Low",
+    "risk_reason": "Defines expense reimbursement."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 25,
+    "clause_text": "Employee shall not take up any other employment...",
+    "clause_type": "Non-Compete",
+    "risk_level": "High",
+    "risk_reason": "Restricts outside work during employment."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 37,
+    "clause_text": "Employee assigns all intellectual property...",
+    "clause_type": "Intellectual Property",
+    "risk_level": "High",
+    "risk_reason": "Transfers all IP rights to employer."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 39,
+    "clause_text": "Employee agrees not to engage in competing activity...",
+    "clause_type": "Non-Compete",
+    "risk_level": "High",
+    "risk_reason": "Restricts post-employment competitive activity."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 42,
+    "clause_text": "Employee shall not disclose confidential information...",
+    "clause_type": "Confidentiality",
+    "risk_level": "High",
+    "risk_reason": "Restricts disclosure even after termination."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 48,
+    "clause_text": "Employer terminates without just cause...",
+    "clause_type": "Termination",
+    "risk_level": "Medium",
+    "risk_reason": "Provides limited notice compensation."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 49,
+    "clause_text": "Employee may terminate employment with notice...",
+    "clause_type": "Resignation",
+    "risk_level": "Low",
+    "risk_reason": "Standard resignation clause."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 52,
+    "clause_text": "Employee refrains from soliciting clients...",
+    "clause_type": "Non-Solicitation",
+    "risk_level": "High",
+    "risk_reason": "Restricts business solicitation post-termination."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 62,
+    "clause_text": "Employee shall indemnify the employer...",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "risk_reason": "Employee bears legal cost liabilities."
+  },
+  {
+    "contract_id": "employment_01",
+    "clause_id": 68,
+    "clause_text": "Agreement governed by laws of...",
+    "clause_type": "Governing Law",
+    "risk_level": "Low",
+    "risk_reason": "Specifies applicable legal jurisdiction."
+  }
+]
